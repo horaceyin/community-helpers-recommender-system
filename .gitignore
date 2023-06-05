@@ -1,0 +1,6 @@
+airflow_docker/logs/
+__azurite_db_blob__.json
+__azurite_db_blob_extent__.json
+__*
+RecommenderSystem_docker/data/UserHelpRequestActionDataset_18032023_122602.csv
+airflow_docker/dags/__pycache__/

@@ -1,0 +1,8 @@
+fastapi
+pydantic
+numpy
+uvicorn
+pandas
+matplotlib
+azure-storage-blob 
+azure-identity
